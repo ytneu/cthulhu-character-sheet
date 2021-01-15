@@ -224,10 +224,11 @@ export const CHANGE = "Change";
 export const SKILLS = "Skills";
 export const STATS = "Stats";
 export const EQ = "Equipment";
-export const WEAPON = "Weapon";
+export const WEAPON = "Weapons";
 export const CASH = "Cash";
 export const PROFILE = "Profile";
 export const DICES = "Dices";
+export const INVENTORY = "Inventory";
 
 // Dices
 export const K4 = "1K4";
